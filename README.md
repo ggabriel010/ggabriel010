@@ -17,10 +17,11 @@ Dev iniciante | Arduino & ESP | Sensores | Estudante de Engenharia de Computaç�
 | Tecnologia | Nível |
 |-----------|-------|
 | Arduino   | Intermediário |
-| ESP32     | Iniciando |
+| ESP32     | intermediário |
 | C/C++     | Médio |
-| Python    | Estudando |
-| Git/GitHub| Aprendendo |
+| Python    | Iniciante |
+| Java    | Iniciante |
+| Git/GitHub| Iniciante |
 
 ---
 
